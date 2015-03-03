@@ -10,7 +10,6 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<jetty.version>8.1.16.v20140903</jetty.version>
-		<servlet.version>3.0.1</servlet.version>
 		<junit.version>4.8.1</junit.version>
 		<logback.version>1.0.11</logback.version>
 	</properties>
